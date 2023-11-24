@@ -86,7 +86,7 @@ video {
     border-color: black;
     background-color: black;
     width: 80%;
-    height: fit-content;
+    height: 5em;
     align-self: center;
 }
 
